@@ -1,1 +1,1 @@
-# Optimization-of-Mechatronic-Systems
+# Optimization of Mechatronic Systems
